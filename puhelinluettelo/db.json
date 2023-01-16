@@ -1,0 +1,19 @@
+{
+  "persons": [
+    {
+      "name": "Mikki Hiiri",
+      "number": "12345678",
+      "id": 1
+    },
+    {
+      "name": "Jaska Jokunen",
+      "number": "040 222 3344",
+      "id": 3
+    },
+    {
+      "name": "Pipsa Possu",
+      "number": "050 5555555",
+      "id": 5
+    }
+  ]
+}
