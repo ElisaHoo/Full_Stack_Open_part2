@@ -1,6 +1,6 @@
 # Full_Stack_Open_part2
 
-Koulun harjoitustehtäviä Javascriptilla and Reactilla.
+Koulun harjoitustehtäviä (Frontend) Javascriptilla and Reactilla.
 
 "maiden_tiedot": 
 Webbisovellus, jolla voi hakea tietoa eri maista. Maiden tiedot saadaan https://restcountries.com. 
